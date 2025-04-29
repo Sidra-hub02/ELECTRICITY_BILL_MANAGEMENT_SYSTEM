@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EBMS
+build_property.RootNamespace = EBMS
+build_property.ProjectDir = /workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS
+build_property._RazorSourceGeneratorDebug = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Bill/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmlsbC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Bill/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmlsbC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Bill/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmlsbC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Bill/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmlsbC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Bill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmlsbC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Meter/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWV0ZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Meter/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWV0ZXIvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Meter/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWV0ZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Meter/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWV0ZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Meter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWV0ZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Payment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Payment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Payment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Payment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Payment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGF5bWVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Reading/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhZGluZy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Reading/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhZGluZy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Reading/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhZGluZy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Reading/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhZGluZy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Reading/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVhZGluZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/ELECTRICITY_BILL_MANAGEMENT_SYSTEM/EBMS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wolz5vmx67
